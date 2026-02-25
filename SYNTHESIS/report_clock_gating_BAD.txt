@@ -1,0 +1,32 @@
+
+****************************************
+Report : clock_gating
+Design : switch_4port
+Version: V-2023.12-SP3
+Date   : Sun Jan 18 17:26:20 2026
+****************************************
+
+
+                             Clock Gating Summary
+          ------------------------------------------------------------------
+          |  Number of Clock gating elements         |             0       |
+          |                                          |                     |
+          |  Number of Tool-Inserted Clock gates     |         0   (0.00%) |
+          |                                          |                     |
+          |  Number of Pre-Existing Clock gates      |         0   (0.00%) |
+          |                                          |                     |
+          |  Number of Gated registers               |         0   (0.00%) |
+          |                                          |                     |
+          |  Number of Tool-Inserted Gated registers |         0   (0.00%) |
+          |                                          |                     |
+          |  Number of Pre-Existing Gated registers  |         0   (0.00%) |
+          |                                          |                     |
+          |  Number of Ungated registers             |       834 (100.00%) |
+          |                                          |                     |
+          |  Total number of registers               |           834       |
+          |                                          |                     |
+          |  Max number of Clock Gate Levels         |             0       |
+          ------------------------------------------------------------------
+
+
+1
